@@ -1,0 +1,55 @@
+[FILMED] What is C++? Why C++? etc.
+[FILMED] 1. Hello World
+[FILMED] 2. Printing text + 63. Printf + Comments
+[FILMED] 61. Using and not namespace
+[FILMED] 3. Variables & data types [[[ REFILM FOR CRASH COURSE ]]]
+[FILMED] 4. User Input + 59. Getline instead of cin
+[FILMED] 11. Math
+[FILMED] 60. String functions
+[FILMED] if statements + 73. Terniary Opperator
+[FILMED] 15. Switch Statement
+[FILMED] 74. Commandline Arguments
+[FILMED] 13. Functions
+[FILMED] 20. Function Overloading
+[FILMED] 21. Recursive Functions
+[FILMED] 31. Scope
+[FILMED] [Project: Basic Calculator (14. Better Calculator)]
+[FILMED] 19. Random Numbers
+[FILMED] 75. Custom Namespaces
+[FILMED] 70. Enums
+[FILMED] 54. Exceptions [[[ REFILM FOR CRASH COURSE ]]]
+[FILMED] 9. sizeOf [[ Merge lesson into 22 (arrays) for CRASH COURSE ]]
+[FILMED] 6. Arrays
+[FILMED] for loops + while loops [[[ REFILM FOR CRASH COURSE; Set BEFORE arrays in crash course! ]]] --- 77. For in loop [FILM FOR CRASH COURSE, MERGE INTO 24 - For loops]
+[FILMED] 76. stl Arrays [[ Merge lesson into 22 (arrays) for CRASH COURSE ]]
+[FILMED] 69. Vectors
+[FILMED] 83. Sets
+[FILMED] 81. Tuples
+[FILMED] 82. Maps
+[FILMED] 89. Sorting [for in loop, vectors, if statements, functions]
+[FILMED] 58. Reading from a file + 55. Writing to a file + 56. Checking if a file is open + 57. ios file writing
+[FILMED] 51. define + 52. #if
+[FILMED] 23. Classes and objects + 34. Deconstructor
+[FILMED] 24. Object Functions + 25. Getters & Setters [Remember to use this keyword!! (40. this)]
+[FILMED] 29. Classes in files + 35. Indirection Operator
+[FILMED] 26. Inheritance + 44. Polymorphism
+[FILMED] 36. Constants + 37. Members + 79. Member Initializer Lists
+[FILMED] 38. Composition
+[FILMED] 39. Friend
+[FILMED] 41. Opperator Overloading
+[FILMED] 78. Makefiles
+[FILMED] 64. Structs
+[FILMED] 47. Template Functions + 49. Class Templates 
+[FILMED] 7. Pointers
+[FILMED] 8. Dynamic Memory
+[FILMED] 27. Passing Reference as Value
+[FILMED] 84. Smart Pointers
+87. Threads
+66. Connecting to a Database (C++ify it first (classes and stuffs))
+
+[EXTRA THINGS WITH NO LESSON FILES]
+TCLAP
+
+
+CRASH COURSE NOTES:
+(44) 8. Dynamic Memory -> Do not include in course

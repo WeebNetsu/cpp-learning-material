@@ -1,0 +1,13 @@
+Finally finished C++ course, next up you can take a look at learning some libraries such as Qt, FLTK, JUCE or Qt for creating GUI software, or if you want to look into game development, then SFML if you would like a Love2D-like solution, Godot if you want to use an free and Open Source  game engine or if want to go big, then Unreal Engine is a good place to look into. If you're not interesting in learning any frameworks, libraries or game engines, then you might want to consider learning another language instead. If you're coming from C++, then learning C can benefit you a lot, if you're looking for something lighter, Lua is a great choice, since it can easily be used with C++. If you want to continue learning C++, there are a few good channels I can recommend, Low Level Learning and The Cherno
+
+
+Links:
+GTK: https://www.gtk.org
+JUCE: https://juce.com
+FLTK: https://www.fltk.org
+Qt: https://www.qt.io
+SFML: https://www.sfml-dev.org
+Unreal Engine: https://www.unrealengine.com/en-US
+Godot: https://godotengine.org
+Low Level Learning: https://www.youtube.com/c/LowLevelLearning/videos
+The Cherno: https://www.youtube.com/c/TheChernoProject
